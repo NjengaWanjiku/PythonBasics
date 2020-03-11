@@ -16,3 +16,5 @@ print(school[-4:8])
 print(school[4:])
 print(school[-4:])
 print(school[-5])
+print(school[1:8:2])
+
