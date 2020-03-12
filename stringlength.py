@@ -78,9 +78,15 @@ print(myDictionary["username"])
 print(myDictionary["password"])
 print(myDictionary["age"])
 
-self={
-    "firstname":"yuna",
-    "lastname":"wanjiku"
+# # self={
+#     "firstname":"yuna",
+#     "lastname":"wanjiku"
+#     "schools": "primary schools"[
+#     "school name" = "kianjeru"
+# ]
 
-
+dict{
+    "user":"yuna"
+    "age":11
 }
+print(dict["age"])
