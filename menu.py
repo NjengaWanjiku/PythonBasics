@@ -25,25 +25,29 @@ if choice==1:
 
     else:
         print("inssuficient balance")
-#
-# elif choice==2:
-#
-#      balance=balance-30
-#      print("you have purchased 30mb")
-#      print("your balance is",balance)
-#
-# else:
-#     print("inssuficient  balance")
-#
-# elif choice==3 and balance >=40:
-#      balance=balance-40
-#      print("you have purchased 40mb")
-#      print("your balance is",balance)
-#
-# else:
-#     print("inssuficient  balance")
-#
-# else:
-#      print("invalid")'''
-#
 
+    elif choice==2:
+         if balance >= 20:
+      balance=balance-30
+        print("you have purchased 30mb")
+        print("your balance is",balance)
+
+     else:
+        print("inssuficient  balance")
+
+     elif choice==3 and balance >=40:
+     if balance >= 20:
+      balance=balance-40
+      print("you have purchased 40mb")
+      print("your balance is",balance)
+
+ else:
+     print("inssuficient  balance")
+
+
+
+# recap
+name={"Eunice"}
+age={"19"}
+# to make changes in a list you may
+list.append

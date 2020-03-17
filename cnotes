@@ -1,0 +1,18 @@
+talking of dictionaries
+some of dictionaries methods include:
+
+-items() -method that returns alist of key value tuples of a dictionary
+-values() -it return a list of all values in a dictionaries eg.name,age
+-keys() -returns values name or age
+
+research on the purpose of the three.
+
+ Functions
+# a function is a bloke of code that prforms a particular tasks.
+# for instance an even or odd number.
+# terms associated with
+calling a function
+arguments
+parameters
+
+create a new file
