@@ -1,17 +1,17 @@
-# use of modulus
-# x=420
-# y=420
-# z=21
-# if x%2==0:
-#     print("even")
-# else:
-#     print("odd")
+ use of modulus
+ x=420
+ y=420
+ z=21
+if x%2==0:
+     print("even")
+else:
+     print("odd")
 #
 # # use of notequalto
 # if y%2!=0:
 #     print("odd")
 # else:
-#     print("even")
+    print("even")
 
 # a simple login page
 # a tuple containing the db
